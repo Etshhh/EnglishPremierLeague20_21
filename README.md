@@ -16,17 +16,17 @@ pip install requirements.txt
 <div class="image123">
     <div class="imgContainer">
     <p align="center">
-        <img src="graphs/g2.png" alt="sample">
+        <img src="data/graphs/g2.png" alt="sample">
     </p>
     </div>
     <div class="imgContainer">
     <p align="center">
-        <img src="graphs/g1.png" alt="sample">
+        <img src="data/graphs/g1.png" alt="sample">
     </p>
     </div>
     <div class="imgContainer">
     <p align="center">
-        <img src="graphs/g3.png" alt="sample">
+        <img src="data/graphs/g3.png" alt="sample">
     </p>
     </div>
 </div>
